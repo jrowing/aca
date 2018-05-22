@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Drake Equation
@@ -7,7 +6,6 @@ modified: 2017-03-21
 author: Joe
 category: blog
 tags: [maths, space]
-
 ---
 
 # Introduction
